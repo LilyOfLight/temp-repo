@@ -1,0 +1,24 @@
+8-follow-through.png
+	size: 1024, 128
+	filter: Linear, Linear
+	scale: 0.5
+ball
+	bounds: 694, 23, 78, 78
+chain-1
+	bounds: 348, 47, 54, 152
+	rotate: 90
+chain-2
+	bounds: 774, 64, 37, 126
+	rotate: 90
+chain-3
+	bounds: 902, 64, 37, 112
+	rotate: 90
+chain-4
+	bounds: 839, 25, 37, 98
+	rotate: 90
+chain-end
+	bounds: 774, 2, 63, 60
+platform
+	bounds: 2, 48, 344, 53
+tail
+	bounds: 502, 45, 190, 56

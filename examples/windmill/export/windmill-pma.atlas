@@ -1,0 +1,64 @@
+windmill-pma.png
+	size: 1024, 512
+	filter: Linear, Linear
+	pma: true
+	scale: 0.5
+bush1
+	bounds: 898, 265, 56, 38
+bush2
+	bounds: 955, 412, 67, 45
+	rotate: 90
+flower-leaf-back
+	bounds: 999, 323, 16, 11
+flower-leaf-front
+	bounds: 1002, 421, 16, 11
+flower-shadow
+	bounds: 1002, 434, 23, 9
+	rotate: 90
+flower-stem
+	bounds: 547, 474, 5, 27
+	rotate: 90
+flower1
+	bounds: 999, 336, 22, 19
+flower2
+	bounds: 1002, 459, 20, 17
+	rotate: 90
+flower3
+	bounds: 558, 456, 15, 16
+heat
+	bounds: 899, 330, 48, 52
+rooster
+	bounds: 983, 232, 27, 25
+	rotate: 90
+tree1-leaves1
+	bounds: 848, 341, 49, 53
+tree1-leaves2
+	bounds: 848, 289, 48, 50
+tree1-leaves3
+	bounds: 938, 217, 43, 42
+tree1-leaves4
+	bounds: 893, 221, 43, 42
+tree1-trunk
+	bounds: 848, 396, 64, 83
+tree2-leaves1
+	bounds: 955, 357, 50, 53
+tree2-leaves2
+	bounds: 949, 305, 48, 50
+tree2-leaves3
+	bounds: 956, 261, 44, 42
+tree2-leaves4
+	bounds: 848, 245, 43, 42
+tree2-leaves5
+	bounds: 848, 201, 42, 42
+tree2-trunk
+	bounds: 914, 384, 39, 95
+windmill-base
+	bounds: 2, 2, 554, 462
+windmill-blades
+	bounds: 576, 208, 271, 270
+	rotate: 90
+windmill-blades-wood-h
+	bounds: 2, 466, 271, 13
+windmill-blades-wood-v
+	bounds: 275, 466, 13, 270
+	rotate: 90
